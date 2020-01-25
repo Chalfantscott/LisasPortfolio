@@ -2,6 +2,7 @@
 #main-header span:hover {
     cursor: pointer;
     opacity: 0.8;
+    text-decoration: underline;
 }
 a .img-fluid {
     width: 300px;
