@@ -11,4 +11,10 @@ a .img-fluid {
 .tough-thumbnail {
     height: 40em;
 }
-
+.title {
+    margin-top: 20px;
+}
+@media screen and (max-width: 767px) {
+    .title {
+        margin-top: 20px;
+  }
