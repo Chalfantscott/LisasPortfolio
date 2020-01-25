@@ -5,8 +5,8 @@
     text-decoration: underline;
 }
 a .img-fluid {
-    width: 300px;
-    height:300px;
+    width: auto;
+    height: auto;
     object-fit: cover;
 }
 .tough-thumbnail {
@@ -17,5 +17,20 @@ a .img-fluid {
 }
 @media screen and (max-width: 767px) {
     .title {
-        margin-top: 20px;
   }
+}
+#work {
+    margin-top: 100px;
+}
+#about {
+    margin-top: 100px;
+}
+.navbar {
+    height: 100px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.945);
+}
+.navbar a {
+    color: black;
+    font-size: larger;
+}
